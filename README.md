@@ -1,4 +1,3 @@
-# Signals-and-Systems
 # SIGNALS AND SYSTEMS
 ##  Homework-1 
 ### -CONVOLUTİON-
